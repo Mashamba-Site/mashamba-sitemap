@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://ffp-mashamba.com/products</loc>
+
+    <!-- 1) Sweet Potato -->
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/Zu2iV2hQdRJ0voLWndBx/media/6892a62cd65e2a38701cf441.jpeg</image:loc>
+      <image:title>Ugandan Sweet Potato (Ipomoea batatas) – Export-Certified Roots</image:title>
+      <image:caption>Ugandan sweet potatoes (Ipomoea batatas), also called sweet potato, prized for natural sweetness, dense nutrition, and reliable year-round supply. Export-certified, cold-chain handled, and air-freighted from Entebbe.</image:caption>
+    </image:image>
+
+    <!-- 2) Matoke -->
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/Zu2iV2hQdRJ0voLWndBx/media/6892a66fd65e2a38701cf446.jpeg</image:loc>
+      <image:title>Ugandan Matoke (Musa acuminata) – Green Bananas Export</image:title>
+      <image:caption>Matoke (Musa acuminata), also known as green bananas, hand-picked, export-graded, and air-freighted fresh from Uganda to UK, EU, and Gulf wholesale buyers.</image:caption>
+    </image:image>
+
+    <!-- 3) Hot Peppers -->
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/Zu2iV2hQdRJ0voLWndBx/media/68943a18f8ddde77e41ff495.jpeg</image:loc>
+      <image:title>Ugandan Hot Peppers (Capsicum spp.) – Bird’s Eye Chilli & Scotch Bonnet</image:title>
+      <image:caption>Ugandan hot peppers (Capsicum spp., incl. C. chinense, C. frutescens), also called African bird’s eye chilli and Scotch bonnet, export-certified, cold-chain handled, and shipped by air to global spice buyers.</image:caption>
+    </image:image>
+
+    <!-- 4) White African Eggplant -->
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/Zu2iV2hQdRJ0voLWndBx/media/6892a6a0d65e2a38701cf449.jpeg</image:loc>
+      <image:title>White African Eggplant (Solanum aethiopicum) – Garden Egg Export</image:title>
+      <image:caption>White African eggplant (Solanum aethiopicum), also called garden egg or njanja, smooth-skinned and firm-textured, export-certified and air-freighted from Uganda.</image:caption>
+    </image:image>
+
+    <!-- 5) Cocoyam -->
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/Zu2iV2hQdRJ0voLWndBx/media/6892a6cbd65e2a38701cf44b.jpeg</image:loc>
+      <image:title>Ugandan Cocoyam (Xanthosoma sagittifolium) – Malanga Export</image:title>
+      <image:caption>Ugandan cocoyam (Xanthosoma sagittifolium), also known as malanga or tannia, nutrient-rich root crop with starchy texture, export-certified and bulk-packed for wholesale buyers.</image:caption>
+    </image:image>
+
+    <!-- 6) Fresh-Cut Sugar Cane -->
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/Zu2iV2hQdRJ0voLWndBx/media/6892a6f2d65e2a38701cf44d.jpeg</image:loc>
+      <image:title>Ugandan Sugar Cane (Saccharum officinarum) – Fresh-Cut Export</image:title>
+      <image:caption>Ugandan fresh-cut sugar cane (Saccharum officinarum), also called fresh-cut cane, sweet and juicy, trimmed and bundled to export specifications for airfreight.</image:caption>
+    </image:image>
+
+    <!-- 7) Ginger -->
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/Zu2iV2hQdRJ0voLWndBx/media/6892a713d65e2a38701cf44f.jpeg</image:loc>
+      <image:title>Ugandan Ginger (Zingiber officinale) – Fresh Root Export</image:title>
+      <image:caption>Ugandan ginger (Zingiber officinale), also called fresh ginger root, aromatic export-grade rhizomes, cold-chain handled and air-freighted to international spice buyers.</image:caption>
+    </image:image>
+
+    <!-- 8) Avocado -->
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/Zu2iV2hQdRJ0voLWndBx/media/6892a73ad65e2a38701cf451.jpeg</image:loc>
+      <image:title>Ugandan Avocado (Persea americana) – Butter Fruit Export</image:title>
+      <image:caption>Ugandan avocados (Persea americana), also called butter fruit or Uganda avocado, creamy and nutrient-rich, export-certified and shipped fresh by air.</image:caption>
+    </image:image>
+
+    <!-- 9) Apple Bananas -->
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/Zu2iV2hQdRJ0voLWndBx/media/689ee4d95dc21c3871d1c403.jpeg</image:loc>
+      <image:title>Ugandan Apple Bananas (Musa acuminata, Sukali Ndizi) – Export Variety</image:title>
+      <image:caption>Ugandan apple bananas (Musa acuminata, Sukali ndizi cultivar), locally called Sukali ndizi, sweet and firm, export-certified and air-freighted fresh for premium wholesale buyers.</image:caption>
+    </image:image>
+
+  </url>
+</urlset>
